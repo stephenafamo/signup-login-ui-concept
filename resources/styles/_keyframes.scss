@@ -1,0 +1,35 @@
+@keyframes overlayToRight {
+    0% {
+        left: 3%;
+    }
+
+    40% {
+        left: 38%;
+    }
+
+    60% {
+        left: 43%;
+    }
+
+    100% {
+        left: 38%;
+    }
+}
+
+@keyframes overlayToLeft {
+    0% {
+        left: 38%;
+    }
+
+    40% {
+        left: 3%;
+    }
+
+    60% {
+        left: -2%;
+    }
+
+    100% {
+        left: 3%;
+    }
+}
